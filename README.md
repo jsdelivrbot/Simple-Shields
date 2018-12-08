@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/leonardwu/Simple-Shields">
-        <img src="https://rawgit.com/leonardwu/Simple-Shields/master/SimpleShields-logo.svg" height="130">
+        <img src="https://cdn.jsdelivr.net/gh/leonardwu/Simple-Shields@master/SimpleShields-logo.svg" height="130">
     </a>
 </p>
 
